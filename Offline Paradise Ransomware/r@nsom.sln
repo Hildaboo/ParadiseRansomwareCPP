@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ransomware", "r@nsom\r@nsom.vcxproj", "{C50D15F0-ED65-4A7D-A886-034B8401ED9D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Loader", "Loader\Loader.vcxproj", "{C79AB650-8D6A-4ACC-9944-50F767F65BDF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Builder", "Builder\Builder.vcxproj", "{B5BD9442-27BA-4AB3-B8FC-906045425CAE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Decryptor", "Decryptor\Decryptor.vcxproj", "{5044649A-72F1-4DB3-AADE-5178BC4FB840}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Keygen", "Keygen\Keygen.vcxproj", "{7828348B-E246-48FE-9AE2-8B11E9E7F5A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C50D15F0-ED65-4A7D-A886-034B8401ED9D}.Release|x64.ActiveCfg = Release|x64
+		{C50D15F0-ED65-4A7D-A886-034B8401ED9D}.Release|x64.Build.0 = Release|x64
+		{C50D15F0-ED65-4A7D-A886-034B8401ED9D}.Release|x86.ActiveCfg = Release|Win32
+		{C50D15F0-ED65-4A7D-A886-034B8401ED9D}.Release|x86.Build.0 = Release|Win32
+		{C79AB650-8D6A-4ACC-9944-50F767F65BDF}.Release|x64.ActiveCfg = Release|x64
+		{C79AB650-8D6A-4ACC-9944-50F767F65BDF}.Release|x64.Build.0 = Release|x64
+		{C79AB650-8D6A-4ACC-9944-50F767F65BDF}.Release|x86.ActiveCfg = Release|Win32
+		{C79AB650-8D6A-4ACC-9944-50F767F65BDF}.Release|x86.Build.0 = Release|Win32
+		{B5BD9442-27BA-4AB3-B8FC-906045425CAE}.Release|x64.ActiveCfg = Release|x64
+		{B5BD9442-27BA-4AB3-B8FC-906045425CAE}.Release|x64.Build.0 = Release|x64
+		{B5BD9442-27BA-4AB3-B8FC-906045425CAE}.Release|x86.ActiveCfg = Release|Win32
+		{B5BD9442-27BA-4AB3-B8FC-906045425CAE}.Release|x86.Build.0 = Release|Win32
+		{5044649A-72F1-4DB3-AADE-5178BC4FB840}.Release|x64.ActiveCfg = Release|x64
+		{5044649A-72F1-4DB3-AADE-5178BC4FB840}.Release|x64.Build.0 = Release|x64
+		{5044649A-72F1-4DB3-AADE-5178BC4FB840}.Release|x86.ActiveCfg = Release|Win32
+		{5044649A-72F1-4DB3-AADE-5178BC4FB840}.Release|x86.Build.0 = Release|Win32
+		{7828348B-E246-48FE-9AE2-8B11E9E7F5A4}.Release|x64.ActiveCfg = Release|x64
+		{7828348B-E246-48FE-9AE2-8B11E9E7F5A4}.Release|x64.Build.0 = Release|x64
+		{7828348B-E246-48FE-9AE2-8B11E9E7F5A4}.Release|x86.ActiveCfg = Release|Win32
+		{7828348B-E246-48FE-9AE2-8B11E9E7F5A4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2C33CD6-A256-44F1-9B1C-9A49FCBA520A}
+	EndGlobalSection
+EndGlobal
